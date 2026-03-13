@@ -1,0 +1,101 @@
+# BedrockRankFix - Config
+# bedrock: tekst koji vide Bedrock igraci
+# java: ItemsAdder tag koji vide Java igraci
+
+ranks:
+  owner:
+    bedrock: "&4[&cOwner&4] "
+    java: "%img_rank_owner% "
+  co-owner:
+    bedrock: "&4[&cCo-Owner&4] "
+    java: "%img_rank_co_owner% "
+  developer:
+    bedrock: "&9[&bDeveloper&9] "
+    java: "%img_rank_developer% "
+  manager:
+    bedrock: "&9[&bManager&9] "
+    java: "%img_rank_manager% "
+  head-admin:
+    bedrock: "&4[&cHead Admin&4] "
+    java: "%img_rank_head_admin% "
+  admin:
+    bedrock: "&4[&cAdmin&4] "
+    java: "%img_rank_admin% "
+  sr.mod:
+    bedrock: "&1[&9Sr.Mod&1] "
+    java: "%img_rank_sr_moderator% "
+  mod:
+    bedrock: "&1[&9Mod&1] "
+    java: "%img_rank_moderator% "
+  helper:
+    bedrock: "&2[&aHelper&2] "
+    java: "%img_rank_helper% "
+  titan+:
+    bedrock: "&5[&dTitan+&5] "
+    java: "%img_rank_titan_plus% "
+  titan:
+    bedrock: "&5[&dTitan&5] "
+    java: "%img_rank_titan% "
+  mvp+:
+    bedrock: "&6[&eMVP+&6] "
+    java: "%img_rank_mvp_plus% "
+  mvp:
+    bedrock: "&6[&eMVP&6] "
+    java: "%img_rank_mvp% "
+  vip+:
+    bedrock: "&2[&aVIP+&2] "
+    java: "%img_rank_vip_plus% "
+  vip:
+    bedrock: "&2[&aVIP&2] "
+    java: "%img_rank_vip% "
+  legend:
+    bedrock: "&5[&dLegend&5] "
+    java: "%img_rank_legend% "
+  ultimate:
+    bedrock: "&5[&dUltimate&5] "
+    java: "%img_rank_ultimate% "
+  supreme:
+    bedrock: "&5[&dSupreme&5] "
+    java: "%img_rank_supreme% "
+  premium:
+    bedrock: "&6[&ePremium&6] "
+    java: "%img_rank_premium% "
+  booster:
+    bedrock: "&b[&3Booster&b] "
+    java: "%img_rank_booster% "
+  builder:
+    bedrock: "&7[&fBuilder&7] "
+    java: "%img_rank_igrac% "
+  netherite:
+    bedrock: "&8[&7Netherite&8] "
+    java: "%img_rank_netherite% "
+  diamond:
+    bedrock: "&b[&3Diamond&b] "
+    java: "%img_rank_diamond% "
+  elite:
+    bedrock: "&6[&eElite&6] "
+    java: "%img_rank_elite% "
+  emerald:
+    bedrock: "&2[&aEmerald&2] "
+    java: "%img_rank_emerald% "
+  gold:
+    bedrock: "&6[&eGold&6] "
+    java: "%img_rank_gold% "
+  media:
+    bedrock: "&c[&4Media&c] "
+    java: "%img_rank_media% "
+  coal:
+    bedrock: "&8[&7Coal&8] "
+    java: "%img_rank_coal% "
+  partner:
+    bedrock: "&d[&5Partner&d] "
+    java: "%img_rank_partner% "
+  sponsor:
+    bedrock: "&6[&eSponsor&6] "
+    java: "%img_rank_sponsor% "
+  pro:
+    bedrock: "&a[&2Pro&a] "
+    java: "%img_rank_pro% "
+  default:
+    bedrock: "&7[&fMember&7] "
+    java: "%img_rank_igrac% "

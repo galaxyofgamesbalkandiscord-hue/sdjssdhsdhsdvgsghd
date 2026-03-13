@@ -1,0 +1,15 @@
+name: NovaSMPBedrockRanks
+version: 1.0.0
+main: xyz.novasmp.novasmpbedrockranks.NovaSMPBedrockRanks
+api-version: 1.19
+description: Prikazuje tekstualne rankove Bedrock igracima, ikonice Java igracima
+authors: [NovaSMP]
+website: playnovasmp.xyz
+
+depend:
+  - TAB
+  - floodgate
+  - LuckPerms
+
+softdepend:
+  - ItemsAdder
